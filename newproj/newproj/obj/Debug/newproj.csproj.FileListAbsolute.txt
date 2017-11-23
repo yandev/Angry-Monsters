@@ -1,0 +1,16 @@
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\bin\Debug\newproj.exe.config
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\bin\Debug\newproj.XML
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\obj\Debug\newproj.exe
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\obj\Debug\newproj.pdb
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\bin\Debug\newproj.exe.manifest
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\bin\Debug\newproj.application
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\bin\Debug\newproj.exe
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\bin\Debug\newproj.pdb
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\obj\Debug\newproj.csprojResolveAssemblyReference.cache
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\obj\Debug\newproj.Form1.resources
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\obj\Debug\newproj.Form2.resources
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\obj\Debug\newproj.Properties.Resources.resources
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\obj\Debug\newproj.csproj.GenerateResource.Cache
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\obj\Debug\newproj.TrustInfo.xml
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\obj\Debug\newproj.exe.manifest
+C:\Users\Yandev Kamo\Documents\mindboggl\newproj\newproj\obj\Debug\newproj.application

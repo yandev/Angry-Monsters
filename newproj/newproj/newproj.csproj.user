@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Program Files %28x86%29\|C:\Users\Yandev Kamo\Desktop\|C:\|\|`\</PublishUrlHistory>
+    <InstallUrlHistory>\\local\\Users\\Yandev Kamo\\Desktop\\Deploy\|\\local\\Users\\glitaz\\Desktop\\Deploy\|\\local\\mindboggle\|\\local\\Users\\glitaz\\Desktop\\Mindboggle\|\\local\\mindboggl\</InstallUrlHistory>
+    <SupportUrlHistory>\\local\\Users\\glitaz\\Desktop\\Deploy\</SupportUrlHistory>
+    <UpdateUrlHistory>http://localhost/newproj/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\</ReferencePath>
+  </PropertyGroup>
+</Project>
